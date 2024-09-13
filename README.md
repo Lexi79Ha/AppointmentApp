@@ -6,7 +6,13 @@
 <h3>Step 2.Run SQL_SCHEMA_CREATION file in mysql</h3>
 <H3>Step 3.Download zip file and open in Visual Studio</H3>
 <H3>Step 4. Download packages for dependencies </H3>
-![image](https://github.com/user-attachments/assets/b39afef7-556f-4f5c-9ac6-240373126cd4)
+<h4>MySql.Data by Oracle</h4>
+<h4>MySql.Data.MySqlClient .Net Core Class Library</h4>
+<h4>NuGet.Common</h4>
+<h4>NuGet.Configuration</h4>
+<h4>NuGet.Frameworks</h4>
+<h4>NuGet.Packaging</h4>
+<h4>NuGet.Versioning by Microsoft</h4>
 <H3>Step 5.Run program on local computer</H3>
 <H2>Project Technologies</H2>
 <h3>.NET Frameworks</h3>
